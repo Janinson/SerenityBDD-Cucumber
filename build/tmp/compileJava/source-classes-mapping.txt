@@ -1,0 +1,14 @@
+com/demo/automations/pageobjects/RegisterNewUserPage.java
+ com.demo.automations.pageobjects.RegisterNewUserPage
+com/demo/automations/steps/HomePageStep.java
+ com.demo.automations.steps.HomePageStep
+com/demo/automations/models/DataUser.java
+ com.demo.automations.models.DataUser
+com/demo/automations/steps/RegisterNewUserPage.java
+ com.demo.automations.steps.RegisterNewUserPage
+com/demo/automations/pageobjects/HomePage.java
+ com.demo.automations.pageobjects.HomePage
+com/demo/automations/pageobjects/HomeLoginPage.java
+ com.demo.automations.pageobjects.HomeLoginPage
+com/demo/automations/steps/HomeLoginStep.java
+ com.demo.automations.steps.HomeLoginStep

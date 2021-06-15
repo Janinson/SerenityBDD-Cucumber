@@ -1,0 +1,4 @@
+com/demo/automations/runners/RegisterRunner.java
+ com.demo.automations.runners.RegisterRunner
+com/demo/automations/stepdefinitions/RegisterStepDefinition.java
+ com.demo.automations.stepdefinitions.RegisterStepDefinition
